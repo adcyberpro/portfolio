@@ -10,7 +10,7 @@ Actuellement en BTS SIO option SISR à ENSITECH, je me spécialise dans l’admi
 
 Je suis également en formation continue sur TryHackMe (réseau, red team, vulnérabilités, exploitation…)
 
-##Passion pour :
+## Passion pour :
 
 --> les failles de sécurité et leur comportement,
 --> la cybersécurité offensive (pentest),
