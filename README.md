@@ -26,16 +26,18 @@ ______________________________________________________________
 
 # Systèmes
 
-### - Administration Windows Server
-  Active Directory : gestion utilisateurs, GPO, OU
+## - Administration Windows Server
+--> Active Directory : gestion utilisateurs, GPO, OU
+--> IIS
+--> Serveur de fichiers
+--> WDS
+--> RDS
 
-Linux (Ubuntu/Debian) : services, gestion utilisateurs, configuration réseau
+- Linux (Ubuntu/Debian) : services, gestion utilisateurs, configuration réseau, scripts
+- Virtualisation : Proxmox, VirtualBox
+- Sauvegardes, supervision, mises à jour, durcissement
 
-Virtualisation : Proxmox, VirtualBox
-
-Sauvegardes, supervision, mises à jour, durcissement
-
-🔹 Réseaux
+## Réseaux
 
 Protocoles : TCP/IP, DNS, DHCP, VLAN, routage simple
 
