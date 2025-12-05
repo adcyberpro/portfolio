@@ -27,11 +27,11 @@ ________________________________________________________________________________
 ## Systèmes
 
 ### - Administration Windows Server
---> Active Directory : gestion utilisateurs, GPO, OU
---> IIS
---> Serveur de fichiers
---> WDS
---> RDS
+- Active Directory : gestion utilisateurs, GPO, OU
+- IIS
+- Serveur de fichiers
+- WDS
+- RDS
 
 - Linux (Ubuntu/Debian) : services, gestion utilisateurs, configuration réseau, scripts
 - Virtualisation : Proxmox, VirtualBox
