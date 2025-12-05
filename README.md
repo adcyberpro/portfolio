@@ -16,3 +16,53 @@ Je suis également en formation continue sur TryHackMe (réseau, red team, vuln�
 --> la cybersécurité offensive (pentest),
 --> la sécurisation des infrastructures,
 --> l’architecture système & réseau (hardware et software).
+______________________________________________________________
+
+# Compétences
+## - Développement / Automatisation
+- Python (automatisation, petits outils internes, scripts entreprise)
+- Bash (bases)
+- HTML/CSS (bases)
+
+# Systèmes
+
+### - Administration Windows Server
+  Active Directory : gestion utilisateurs, GPO, OU
+
+Linux (Ubuntu/Debian) : services, gestion utilisateurs, configuration réseau
+
+Virtualisation : Proxmox, VirtualBox
+
+Sauvegardes, supervision, mises à jour, durcissement
+
+🔹 Réseaux
+
+Protocoles : TCP/IP, DNS, DHCP, VLAN, routage simple
+
+Configuration réseau de base (Cisco / Linux)
+
+Sécurisation réseau (segmentation, durcissement, bonnes pratiques)
+
+🔹 Cybersécurité
+
+Techniques de base en pentest (reconnaissance, scanning, exploitation simple)
+
+Utilisation d’outils : Nmap, Hydra, Gobuster, Wireshark…
+
+Plateformes : TryHackMe (en cours de progression)
+
+Analyse de vulnérabilités, compréhension de CVE
+
+Bonnes pratiques de sécurisation système & réseau
+
+🔹 Soft Skills
+
+Entrepreneur
+
+Créatif
+
+Ambitieux
+
+Difficulté à déléguer
+
+Tendance à lancer plusieurs projets en même temps
