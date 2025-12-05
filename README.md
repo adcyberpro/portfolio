@@ -16,7 +16,7 @@ Je suis également en formation continue sur TryHackMe (réseau, red team, vuln�
 - la cybersécurité offensive (pentest)
 - la sécurisation des infrastructures
 - l’architecture système & réseau (hardware et software)
-______________________________________________________________
+___________________________________________________________________________________________________________
 
 # Compétences
 ## - Développement / Automatisation
@@ -24,9 +24,9 @@ ______________________________________________________________
 - Bash (bases)
 - HTML/CSS (bases)
 
-# Systèmes
+## Systèmes
 
-## - Administration Windows Server
+### - Administration Windows Server
 --> Active Directory : gestion utilisateurs, GPO, OU
 --> IIS
 --> Serveur de fichiers
