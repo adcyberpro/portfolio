@@ -27,7 +27,7 @@ ________________________________________________________________________________
 ## Systèmes
 
 ### - Administration Windows Server
-#### - Active Directory : gestion utilisateurs, GPO, UO 
+- Active Directory : gestion utilisateurs, GPO, UO 
 - IIS
 - Serveur de fichiers
 - WDS
