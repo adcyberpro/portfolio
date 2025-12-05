@@ -12,10 +12,10 @@ Je suis également en formation continue sur TryHackMe (réseau, red team, vuln�
 
 ## Passion pour :
 
-> les failles de sécurité et leur comportement
-> la cybersécurité offensive (pentest)
-> > la sécurisation des infrastructures
-> l’architecture système & réseau (hardware et software)
+- les failles de sécurité et leur comportement
+- la cybersécurité offensive (pentest)
+- la sécurisation des infrastructures
+- l’architecture système & réseau (hardware et software)
 ______________________________________________________________
 
 # Compétences
