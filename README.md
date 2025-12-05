@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 ## Cybersécurité
 
-- Techniques de base en pentest (reconnaissance, scanning, exploitation simple)
+- Techniques de base en audit/pentest (reconnaissance, scanning, exploitation simple)
 - Utilisation d’outils : Nmap, Hydra, Gobuster, Wireshark...
 (Plateformes : TryHackMe (en cours de progression))
 - Analyse de vulnérabilités, compréhension de CVE
