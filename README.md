@@ -64,3 +64,19 @@ ________________________________________________________________________________
 - Outils internes systèmes & réseaux
 - Exercices et labs TryHackMe
 - Projets SISR : services réseaux, virtualisation, supervision(Zabbix)...
+___________________________________________________________________________________________________________
+
+# Veille Technologique
+## Sujet : Failles de sécurité 
+Ce sujet est décomposé en deux partie : Failles Réseau et Failles Système
+
+### Outil utilisé : Feedly
+Je puise mes flux RSS chez : 
+
+- Exploit database
+- CERT - FR / ANSSI
+- CNIL
+  
+
+
+  
