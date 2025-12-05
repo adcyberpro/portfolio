@@ -6,9 +6,9 @@ Actuellement en BTS SIO option SISR à ENSITECH, je me spécialise dans l’admi
  J'ai obtenu un Bac Pro Métiers de la Sécurité
 - Actuellement alternant en environnement système & réseau
 - Compétences en Python, principalement pour des scripts d’automatisation utilisés en entreprise
-- Mon objectif : Bac+5 en Cybersécurité (expert SI, analyste SOC, pentest, audit…)
+- Mon objectif : Bac+5 en Cybersécurité (expert SI, analyste SOC, pentest, audit...)
 
-Je suis également en formation continue sur TryHackMe (réseau, red team, vulnérabilités, exploitation…)
+Je suis également en formation continue sur TryHackMe (réseau, red team, vulnérabilités, exploitation...)
 
 ## Passion pour :
 
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 ## Systèmes
 
 ### - Administration Windows Server
-- Active Directory : gestion utilisateurs, GPO, OU
+- Active Directory : gestion utilisateurs, GPO, UO 
 - IIS
 - Serveur de fichiers
 - WDS
@@ -39,32 +39,28 @@ ________________________________________________________________________________
 
 ## Réseaux
 
-Protocoles : TCP/IP, DNS, DHCP, VLAN, routage simple
+- Protocoles : TCP/IP, DNS, DHCP, VLAN, routage simple
+- Configuration réseau de base (Switch/Routeur - Cisco)
+- Sécurisation réseau (segmentation, durcissement, bonnes pratiques)
 
-Configuration réseau de base (Cisco / Linux)
+## Cybersécurité
 
-Sécurisation réseau (segmentation, durcissement, bonnes pratiques)
+- Techniques de base en pentest (reconnaissance, scanning, exploitation simple)
+- Utilisation d’outils : Nmap, Hydra, Gobuster, Wireshark...
+(Plateformes : TryHackMe (en cours de progression))
+- Analyse de vulnérabilités, compréhension de CVE
+- Bonnes pratiques de sécurisation système & réseau
 
-🔹 Cybersécurité
+## Soft Skills
 
-Techniques de base en pentest (reconnaissance, scanning, exploitation simple)
+- Entrepreneur
+- Créatif
+- Ambitieux
+___________________________________________________________________________________________________________
 
-Utilisation d’outils : Nmap, Hydra, Gobuster, Wireshark…
+# Projets
 
-Plateformes : TryHackMe (en cours de progression)
-
-Analyse de vulnérabilités, compréhension de CVE
-
-Bonnes pratiques de sécurisation système & réseau
-
-🔹 Soft Skills
-
-Entrepreneur
-
-Créatif
-
-Ambitieux
-
-Difficulté à déléguer
-
-Tendance à lancer plusieurs projets en même temps
+- Scripts Python utilisés en entreprise (automatisation)
+- Outils internes systèmes & réseaux
+- Exercices et labs TryHackMe
+- Projets SISR : services réseaux, virtualisation, supervision(Zabbix)...
