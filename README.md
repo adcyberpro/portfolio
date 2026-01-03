@@ -76,6 +76,8 @@ Je puise mes flux RSS chez :
 - Exploit database
 - CERT - FR / ANSSI
 - CNIL
+- CVE / CWE
+- NIST
 
   Lien de ma veille : https://adcyber.fr/veille-technologique/
   
