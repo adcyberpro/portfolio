@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ___________
 - Linux (Ubuntu/Debian) : services, gestion utilisateurs, configuration réseau, scripts
 - Virtualisation : Proxmox, VirtualBox
-- Sauvegardes, supervision, mises à jour, durcissement
+- Sauvegardes, supervision, mises à jour
 
 ## Réseaux
 
