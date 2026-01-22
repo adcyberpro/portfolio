@@ -4,7 +4,7 @@ Actuellement en BTS SIO option SISR à ENSITECH, je me spécialise dans l’admi
 
  # À propos de moi
  J'ai obtenu un Bac Pro Métiers de la Sécurité
-- Actuellement alternant en environnement système & réseau
+- Actuellement alternant en environnement systèmes & réseaux
 - Compétences en Python, principalement pour des scripts d’automatisation utilisés en entreprise
 - Mon objectif : Bac+5 en Cybersécurité (expert SI, analyste SOC, pentest, audit...)
 
